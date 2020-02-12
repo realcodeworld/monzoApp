@@ -1,0 +1,16 @@
+{
+  "name": "monzoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "sleep": "^6.1.0"
+  }
+}
